@@ -1,0 +1,1 @@
+gauss <- rnorm(100)

@@ -1,1 +1,1 @@
-gauss <- rnorm(10)
+gauss <- rnorm(10000)
